@@ -1,2 +1,14 @@
-# austin-ai-image-generator-react
-Built with React &amp; NodeJS. Powered by OpenAI Dall-E API.
+# Image Generator with OpenAI API
+
+What can you do?
+- Upload an image to generate image variations
+- Generate images from a text prompt
+
+Built with
+- React
+- NodeJS & Express
+- CORS
+- OpenAI
+- DotENV
+- FS
+- Multer
